@@ -24,7 +24,7 @@ Make sure you have the following installed on your machine:
 
 #### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/ecommerce-mern.git
+git clone [https://github.com/yourusername/ecommerce-mern.git](https://github.com/Fariha-Anjum-Aupy/MERN-inventory-website.git)
 cd ecommerce-mern
 ```
 
