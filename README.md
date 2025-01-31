@@ -7,10 +7,10 @@ A full-stack e-commerce web application built using the **MERN** (MongoDB, Expre
 - View product catalog
 
 ## Tech Stack
-- **Frontend:** React.js, TailwindCSS/Bootstrap
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose ODM)
-- **API Testing:** Postman / Thunder Client
+- **API Testing:** Postman
 
 ## Installation & Setup
 
